@@ -2,7 +2,7 @@
 
 A PyTorch convolutional neural network that reads digits (0–9) from images. Upload a photo, use your camera or try a sample, and the app finds **every digit in the image**, classifies each one and shows the confidence.
 
-![Screenshot](../screenshot.png)
+![Screenshot](screenshot.png)
 
 ## How it works
 
