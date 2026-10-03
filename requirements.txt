@@ -1,0 +1,6 @@
+numpy>=1.26
+opencv-python>=4.8
+pandas>=2.0
+streamlit>=1.40
+torch>=2.0
+pytest>=7.0
